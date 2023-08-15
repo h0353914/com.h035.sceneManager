@@ -1,0 +1,13 @@
+{
+  "name": "com.h035.sceneManager",
+  "version": "1.0.0",
+  "displayName": "h035 工具包&#xff1a;場景管理器",
+  "description": "提供切換場景與退出場景功能",
+  "unity": "2022.3",
+
+  "author": {
+    "name": "h035",
+    "email": "h0353914@gmail.com",
+    "url": ""
+  }
+}
