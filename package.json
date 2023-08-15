@@ -1,5 +1,5 @@
 {
-  "name": "com.h035.sceneManager",
+  "name": "com.h035.scenemanager",
   "version": "1.0.0",
   "displayName": "h035 工具包&#xff1a;場景管理器",
   "description": "提供切換場景與退出場景功能",
